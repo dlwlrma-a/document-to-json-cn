@@ -1,6 +1,11 @@
 ---
 name: document-to-json-cn
 description: 将 TXT、Markdown、HTML、CSV、JSON、PDF 或 DOCX 文档按用户提供的 JSON Schema 结构化提取，支持离线文本预检、分块、基础 Schema 校验、错误留存和受限 OpenAI 兼容调用。适用于合同、简历、报告、票据和知识库入库；仅做全文摘要或没有明确字段结构时不触发。
+slug: document-to-json-cn
+displayName: 文档结构化提取器
+version: 1.0.1
+summary: 按 JSON Schema 提取文档字段，支持分块预检和结果校验
+license: MIT
 ---
 
 # 文档结构化提取器

@@ -1,4 +1,4 @@
-# document-to-json-cn
+# 文档结构化提取器
 
 按 JSON Schema 将常见文档分块提取成可校验 JSON。支持纯离线预检，实时 API 调用必须显式确认。
 
